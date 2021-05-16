@@ -20,4 +20,4 @@ Basic Programs:<br>
 * Python Program for n\’th multiple of a number in Fibonacci Series
 * Program to print ASCII Value of a character
 * Python Program for Sum of squares of first n natural numbers
-* Python Program for cube sum of first n natural numbers
+* Python Program for cube sum of first n natural numbers.
